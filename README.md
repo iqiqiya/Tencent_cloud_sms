@@ -1,2 +1,1 @@
-# Tencent_cloud_sms
- php接入腾讯云短信服务 PHP access to Tencent cloud short message service
+﻿﻿# Tencent_cloud_sms php接入腾讯云短信服务PHP access to Tencent cloud short message service使用说明请看这个链接See this link for instructionshttps://blog.77sec.cn/archives/xiaojishu/62/
